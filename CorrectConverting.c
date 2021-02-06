@@ -1,12 +1,3 @@
-/*
-	==================================================
-	Workshop #2 (Part-2):
-	==================================================
-	Name   : Nasim Khodapanah
-	ID     : 131929200
-	Email  : nkhodapanah@myseneca.ca
-	Section: NGG
-*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
